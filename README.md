@@ -4,7 +4,7 @@
 
 Project created to practice the skills of working with Fetch API. 
 
-Adding more users to the list per click. Data downloaded from external API : https://randomuser.me/.
+Adding new users to the list per click. Data downloaded from external API : https://randomuser.me/.
 
 ## Screenshots 
 ![Users List](image/list.png)
